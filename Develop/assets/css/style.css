@@ -1,0 +1,66 @@
+* {
+    font-family: Lato, sans-serif;
+}
+
+header {
+    background-color: azure;
+    border-bottom: 5px solid black;
+    padding: 0px;
+    margin: 0px;
+    text-align: right;
+}
+
+.header-item {
+    color: rgb(2, 2, 44);
+    font-size: 26px;
+    display: inline;
+    position: relative;
+    margin: 12px;
+}
+
+a {
+    color: goldenrod;
+}
+
+h2 {
+    font-size: xx-large;
+    margin: 5px;
+}
+
+p {
+    font-size: small;
+    margin: 3px;
+}
+
+img {
+    /* size: 50px; */
+}
+
+form {
+    background-color: gray;
+    text-align: center;
+}
+
+.form-border {
+    border: 2px solid salmon;
+    border-radius: 15px;
+    margin: 8px;
+}
+
+.body {
+    background-color: goldenrod;
+    color: whitesmoke;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+
+footer {
+    background-color: azure;
+    border-top: 5px solid black;
+    color: darkblue;
+    padding: 0px;
+    margin: 0px;
+    align-items: center;
+    text-align: center;
+}
